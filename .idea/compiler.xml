@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Selenium3wrz" target="17" />
+      <module name="Selenium3wrz" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
